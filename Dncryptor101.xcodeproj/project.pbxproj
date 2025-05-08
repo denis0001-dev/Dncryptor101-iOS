@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		57A4DA8B2DCCBC4300950FED /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57A4DA8A2DCCBC4300950FED /* AboutView.swift */; };
 		57B206592DCBFED50079B797 /* Dncryptor101App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57B206582DCBFED50079B797 /* Dncryptor101App.swift */; };
 		57B2065B2DCBFED60079B797 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57B2065A2DCBFED60079B797 /* ContentView.swift */; };
 		57B2065D2DCBFED90079B797 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 57B2065C2DCBFED90079B797 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		57A4DA8A2DCCBC4300950FED /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
 		57B206552DCBFED50079B797 /* Dncryptor101.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Dncryptor101.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		57B206582DCBFED50079B797 /* Dncryptor101App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dncryptor101App.swift; sourceTree = "<group>"; };
 		57B2065A2DCBFED60079B797 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				57B2065E2DCBFED90079B797 /* Dncryptor101.entitlements */,
 				57B2065F2DCBFED90079B797 /* Preview Content */,
 				57B206672DCC12030079B797 /* AppIcon.swift */,
+				57A4DA8A2DCCBC4300950FED /* AboutView.swift */,
 			);
 			path = Dncryptor101;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				57A4DA8B2DCCBC4300950FED /* AboutView.swift in Sources */,
 				57B2065B2DCBFED60079B797 /* ContentView.swift in Sources */,
 				57B206592DCBFED50079B797 /* Dncryptor101App.swift in Sources */,
 				57B206682DCC12030079B797 /* AppIcon.swift in Sources */,
